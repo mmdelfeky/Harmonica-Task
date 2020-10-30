@@ -5,6 +5,7 @@ export {default as AppScrollView} from './ScrollView';
 
 export {default as AppSpinner} from './Indicator';
 export {default as AppText} from './Text';
+export {default as AppGradientView} from './GradientView';
 export {default as AppIcon} from './Icon';
 export {default as AppButton} from './Button';
 export {default as AppImage} from './Image';

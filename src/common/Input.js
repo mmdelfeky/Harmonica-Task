@@ -498,6 +498,7 @@ class Input extends PureComponent {
                   flex: 1,
                   alignSelf: 'stretch',
                   textAlignVertical: 'center',
+                  fontWeight: 'bold',
                 },
                 paddingStyles(this.props),
               ]}

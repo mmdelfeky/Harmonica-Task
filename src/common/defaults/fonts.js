@@ -1,5 +1,5 @@
 export default {
-  normal: 'Cairo-Regular',
-  bold: 'Cairo-Bold',
+  normal: 'SkolarSansRegular',
+  bold: 'SkolarSansSemibold',
   boldIsStyle: false,
 };

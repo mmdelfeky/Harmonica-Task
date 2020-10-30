@@ -1,6 +1,6 @@
 export default {
   text: {
-    color: '#ABABBA',
+    color: '#262626',
     size: 5.5,
     translateNumbers: false,
   },
@@ -9,8 +9,8 @@ export default {
     color: 'primary',
   },
   icon: {
-    size: 7,
-    color: '#ABABBA',
+    size: 9,
+    color: 'black',
     type: 'ion',
   },
   button: {
